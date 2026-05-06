@@ -1,0 +1,1 @@
+import{a as t}from"./vendor-redux-1SR3RwAh.js";const n=({size:e=24,color:o="currentColor",...r})=>t.createElement("svg",{viewBox:"0 0 24 24",width:e,height:e,stroke:o,strokeWidth:"2",fill:"none",strokeLinecap:"round",strokeLinejoin:"round","aria-hidden":"true",...r},t.createElement("path",{d:"m15 18-6-6 6-6"}));n.displayName="ChevronLeft";export{n};
